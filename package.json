@@ -1,0 +1,25 @@
+{
+  "name": "node200-ejs-portfolio",
+  "version": "1.0.0",
+  "description": "\"My perosnal portfolio\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusveg951/portfolio.git"
+  },
+  "author": "\"Jesus Vega <jesusvega00@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusveg951/portfolio/issues"
+  },
+  "homepage": "https://github.com/jesusveg951/portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  }
+}
